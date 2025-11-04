@@ -1,4 +1,0 @@
-streamlit
-requests
-pandas
-yfinance  # <--- yfinance가 추가되어야 합니다.
