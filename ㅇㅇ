@@ -1,7 +1,0 @@
-# 파일명: .streamlit/config.toml
-
-[runtime]
-# 현재 yfinance와 가장 잘 호환되고 안정적인 Python 버전으로 지정
-# (Streamlit Cloud 환경의 기본값이 아닐 경우 충돌을 막아줍니다.)
-# 3.10 또는 3.11이 권장됩니다.
-python = 3.10
