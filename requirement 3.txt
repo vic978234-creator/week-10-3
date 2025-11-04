@@ -1,0 +1,7 @@
+# 파일명: requirements.txt
+
+streamlit
+requests
+pandas
+yfinance
+setuptools # <--- 이 라인을 추가하여 설치 환경의 안정성을 높입니다.
